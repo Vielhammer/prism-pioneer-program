@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/code/week01" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/code/week01" />
+            <option value="$PROJECT_DIR$/code/week01/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/code/week02/createDid" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/code/week02/createDid" />
+            <option value="$PROJECT_DIR$/code/week02/createDid/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/code/week02/getDidDocument" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/code/week02/getDidDocument" />
+            <option value="$PROJECT_DIR$/code/week02/getDidDocument/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/code/week02/publishDid" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/code/week02/publishDid" />
+            <option value="$PROJECT_DIR$/code/week02/publishDid/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/code/week02/updateDid" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/code/week02/updateDid" />
+            <option value="$PROJECT_DIR$/code/week02/updateDid/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/code/week03/credential" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/code/week03/credential" />
+            <option value="$PROJECT_DIR$/code/week03/credential/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/code/week03/deactivateDid" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/code/week03/deactivateDid" />
+            <option value="$PROJECT_DIR$/code/week03/deactivateDid/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/code/week03/getDidDocument" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/code/week03/getDidDocument" />
+            <option value="$PROJECT_DIR$/code/week03/getDidDocument/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/code/week04/getRevocationTime" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/code/week04/getRevocationTime" />
+            <option value="$PROJECT_DIR$/code/week04/getRevocationTime/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/code/week04/issue" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/code/week04/issue" />
+            <option value="$PROJECT_DIR$/code/week04/issue/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/code/week04/issuerPublishDid" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/code/week04/issuerPublishDid" />
+            <option value="$PROJECT_DIR$/code/week04/issuerPublishDid/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/code/week04/revokeBatch" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/code/week04/revokeBatch" />
+            <option value="$PROJECT_DIR$/code/week04/revokeBatch/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/code/week04/revokeOne" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/code/week04/revokeOne" />
+            <option value="$PROJECT_DIR$/code/week04/revokeOne/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/code/week05/issue" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/code/week05/issue" />
+            <option value="$PROJECT_DIR$/code/week05/issue/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/code/week05/verify" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/code/week05/verify" />
+            <option value="$PROJECT_DIR$/code/week05/verify/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
