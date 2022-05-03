@@ -48,16 +48,16 @@ dependencies {
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit")
 
     // needed for cryptography primitives implementation
-    implementation("io.iohk.atala:prism-crypto:v1.3.2")
+    implementation("io.iohk.atala:prism-crypto:v1.3.3")
 
     // needed to deal with DIDs
-    implementation("io.iohk.atala:prism-identity:v1.3.2")
+    implementation("io.iohk.atala:prism-identity:v1.3.3")
 
     // needed to deal with credentials
-    implementation("io.iohk.atala:prism-credentials:v1.3.2")
+    implementation("io.iohk.atala:prism-credentials:v1.3.3")
 
     // needed to interact with PRISM Node service
-    implementation("io.iohk.atala:prism-api:v1.3.2")
+    implementation("io.iohk.atala:prism-api:v1.3.3")
 
     // needed for the credential content, bring the latest version
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.2.2")
