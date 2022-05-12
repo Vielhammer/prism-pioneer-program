@@ -33,8 +33,8 @@ fun main(args: Array<String>) {
     println("trying to retrieve document for $did")
     try {
         val model = runBlocking { nodeAuthApi.getDidDocument(prismDid) }
-        println(model.didDataModel)
-        for (info in model.publicKeys) {
+        println(model.didData.didDataModel)
+        for (info in model.didData.publicKeys) {
             println()
             println(info)
         }
